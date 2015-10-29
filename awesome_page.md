@@ -5,6 +5,6 @@
 This is some sort of code block
 ```
 
-[This is a link](https://www.google.com/"optional title")
+[This is a link](https://www.google.com/)
 
-![Image](gps1.png/"optional 2")
+![Image](gps1.png)
