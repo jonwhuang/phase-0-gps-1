@@ -1,5 +1,7 @@
 **This is our first GPS pairing session**
-*With Jonathan, Katy, and Luis???*
+
+*With Jonathan, Katy, and Luis!!!*
+
 
 ```
 This is some sort of code block
